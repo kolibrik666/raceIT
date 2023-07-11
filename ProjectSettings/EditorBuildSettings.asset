@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 5c8b7e8da1de61c4dbdb9afc1b21cf39
+  - enabled: 1
+    path: Assets/Scenes/TrackSelect.unity
+    guid: d52441e97a9b59642bf4f4d2ebff8918
+  - enabled: 1
+    path: Assets/Scenes/CityDay1/CityDay1.unity
+    guid: d722c9f6e6651f54d9deaf1aa48bc6ec
+  - enabled: 1
+    path: Assets/Scenes/CityDay1/CityDay2.unity
+    guid: 858cfd245436f024d9952216f77a8f81
+  - enabled: 1
+    path: Assets/Scenes/CityDay1/CityDay3.unity
+    guid: 56094ca17d070fd4ca73630da342f8c1
+  - enabled: 1
+    path: Assets/Scenes/CityDay1/CityDay4.unity
+    guid: 140e82b2cd6832b4c860233ec58672dc
+  - enabled: 1
+    path: Assets/Scenes/CityDay1/CityDay5.unity
+    guid: e7b8407414ffa3843b9d4c2a48baa2d8
+  - enabled: 1
+    path: Assets/Scenes/CityDay1/CityDay6.unity
+    guid: 585a3382418575041803e76eabbf4dc5
+  - enabled: 1
+    path: Assets/Scenes/CityDay1/CityDay7.unity
+    guid: 781db504ccb728b43a16305cacc6ac3d
+  - enabled: 1
+    path: Assets/Scenes/CityDay1/CityDay8.unity
+    guid: 0e13cb9522ffdb645b36489785bf5d0c
+  - enabled: 1
+    path: Assets/Scenes/CityDay1/CityDay9.unity
+    guid: dd4d3c05cbc04a44aba44fe30d69e0c4
+  - enabled: 1
+    path: Assets/Scenes/CityDay1/CityDay10.unity
+    guid: faf929faf4f58304c9eb01cfaafe64e2
+  - enabled: 1
+    path: Assets/Scenes/CityDay1/CityDay11.unity
+    guid: 1ad36550615c7374984e630a945d16b0
+  - enabled: 1
+    path: Assets/Scenes/CityDay1/CityDay12.unity
+    guid: c2a54ebdd4ec41947a6a046ccc11f58f
+  - enabled: 1
+    path: Assets/Scenes/CityDay1/CityDay13.unity
+    guid: d7ee0fd67e221e24e9f216a21f14ffd9
+  - enabled: 1
+    path: Assets/Scenes/CityDay1/CityDay14.unity
+    guid: 1098f292faf745c4d8803d15ddb9eff8
+  - enabled: 1
+    path: Assets/Scenes/CityDay1/CityDay15.unity
+    guid: 8835c1166db7e1448b75b03c52ad259f
+  - enabled: 1
+    path: Assets/Scenes/CityDay1/CityDay16.unity
+    guid: 96deb02b2166bab488a9d48bc6581500
+  - enabled: 1
+    path: Assets/Scenes/CityNight1/CityNight1.unity
+    guid: 5f570bfd0a602764186b44a1d467e5eb
+  - enabled: 1
+    path: Assets/Scenes/CityNight1/CityNight2.unity
+    guid: 7ba1796a240274744b1d803f66e8759b
+  - enabled: 1
+    path: Assets/Scenes/CityNight1/CityNight3.unity
+    guid: ac6d47361eb9aa3438af4122716a8fa9
+  - enabled: 1
+    path: Assets/Scenes/CityNight1/CityNight4.unity
+    guid: 21a5b80ce0f157b41ab2f17cd0471431
+  - enabled: 1
+    path: Assets/Scenes/CityNight1/CityNight5.unity
+    guid: 3428fbd0542cdbf4d92d4cdb2e5cc299
+  - enabled: 1
+    path: Assets/Scenes/CityNight1/CityNight6.unity
+    guid: 6cd9e13a204462d4db67d806be4a2446
+  - enabled: 1
+    path: Assets/Scenes/CityNight1/CityNight7.unity
+    guid: 29f236f5087eecc41a4a2625391d94af
+  - enabled: 1
+    path: Assets/Scenes/CityNight1/CityNight8.unity
+    guid: baf8c8754c5009a4eadcd127e961b753
+  - enabled: 1
+    path: Assets/Scenes/CityNight1/CityNight9.unity
+    guid: 87643b7350fae694fa7b6fd4e02a802b
+  - enabled: 1
+    path: Assets/Scenes/CityNight1/CityNight10.unity
+    guid: ee70e3ee7a874ec4680589edfbe9359e
+  - enabled: 1
+    path: Assets/Scenes/CityNight1/CityNight11.unity
+    guid: ef17dc5b33ff3824486b8bca5a6acb3c
+  - enabled: 1
+    path: Assets/Scenes/CityNight1/CityNight12.unity
+    guid: f8d36cb5f47bb9645839b2a0612b3996
+  - enabled: 1
+    path: Assets/Scenes/CityNight1/CityNight13.unity
+    guid: e725bacd6066c1c42a876f225667383f
+  - enabled: 1
+    path: Assets/Scenes/CityNight1/CityNight14.unity
+    guid: 264e1a92d4aa6e74fb7c0ed3b86074d1
+  - enabled: 1
+    path: Assets/Scenes/CityNight1/CityNight15.unity
+    guid: cf5a97097f0900c4180bd10e6198804f
+  - enabled: 1
+    path: Assets/Scenes/CityNight1/CityNight16.unity
+    guid: e4c9c2bc270536b47bd11f52acb645e6
+  - enabled: 1
+    path: "Assets/Scenes/Kir\xE1lyRing/RingDay1.unity"
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: "Assets/Scenes/Kir\xE1lyRing/RingDay2.unity"
+    guid: 97e15279fc8514e4da2be68a8d6488e8
+  - enabled: 1
+    path: "Assets/Scenes/Kir\xE1lyRing/RingDay3.unity"
+    guid: e12ada767d7a5cc46b3efc45338e327c
+  - enabled: 1
+    path: "Assets/Scenes/Kir\xE1lyRing/RingDay4.unity"
+    guid: d1c55b77899e7874e877daa4b78f605f
+  - enabled: 1
+    path: "Assets/Scenes/Kir\xE1lyRing/RingNight1.unity"
+    guid: 7cd680246d25954469832d89f5974dc2
+  - enabled: 1
+    path: "Assets/Scenes/Kir\xE1lyRing/RingNight2.unity"
+    guid: c4399ddd10bf0a643a28195f775cd203
+  - enabled: 1
+    path: "Assets/Scenes/Kir\xE1lyRing/RingNight3.unity"
+    guid: b7e2cea22e85c294e94c72e52a19856f
+  - enabled: 1
+    path: "Assets/Scenes/Kir\xE1lyRing/RingNight4.unity"
+    guid: 3fff8b9cf2e35484fbb0f54da0e81b95
+  - enabled: 1
+    path: Assets/Scenes/CountrySide/CountryDay1.unity
+    guid: 34619e59785c31d4c97582a0e705a83e
+  - enabled: 1
+    path: Assets/Scenes/CountrySide/CountryDay2.unity
+    guid: d3f9c39e76b7e8f4f88dd1fc53497354
+  - enabled: 1
+    path: Assets/Scenes/CountrySide/CountryDay3.unity
+    guid: c9270f0ab4b3cb74085e9c76fd423a14
+  - enabled: 1
+    path: Assets/Scenes/CountrySide/CountryDay4.unity
+    guid: 0b0bbb8e25075644094ed1b6ebe7a515
+  - enabled: 1
+    path: Assets/Scenes/CountrySide/CountryNight1.unity
+    guid: fe143cf0fdcbca54d9a9f914fe2cd76a
+  - enabled: 1
+    path: Assets/Scenes/CountrySide/CountryNight2.unity
+    guid: 23bdc9713da62334985e5aa81c8d9bcf
+  - enabled: 1
+    path: Assets/Scenes/CountrySide/CountryNight3.unity
+    guid: 0b174ead5ff235845a3b7fbcd8325560
+  - enabled: 1
+    path: Assets/Scenes/CountrySide/CountryNight4.unity
+    guid: 96417a6c929076d4aa8fb71792caf215
+  m_configObjects: {}
